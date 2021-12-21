@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kentomagento, or just Kent
 - 👀 I’m interested in Computer Science, Networking, and Cyber Security
-- 🌱 I’m currently learning Data Structures, Algorithms, and Web Development
+- 🌱 I’m currently learning Operating Systems in C, and Databases
 - 💞️ I’m looking to get my feet wet and get an internship
 - 📫 How to reach me chauke@oregonstate.edu
 
